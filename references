@@ -1,0 +1,28 @@
+- C++ and Beyond 2012: Herb Sutter - atomic<> Weapons, 1 of 2
+  https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Herb-Sutter-atomic-Weapons-1-of-2?ocid=player
+
+- Introduction to C11, By Tom Plum, February 11, 2013
+  http://www.drdobbs.com/cpp/introduction-to-c11/240150478
+
+- C11 final draft:
+  http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1516.pdf
+
+- Gcc support:
+  https://gcc.gnu.org/wiki/C11Status
+
+- C11 atomic variables and the kernel
+  https://lwn.net/Articles/586838/
+  
+- C11 - Generic Selections
+  http://www.robertgamble.net/2012/01/c11-generic-selections.html
+
+- C11 Lock-free Stack
+  http://nullprogram.com/blog/2014/09/02/
+
+- Threads in the new ISO C Standard from 2011
+  http://fileadmin.cs.lth.se/cs/Education/EDAN25/F06.pdf
+
+??
+- Lowering C11 Atomics for ARM in LLVM
+  http://llvm.org/devmtg/2014-04/PDFs/Talks/Reinoud-report.pdf
+- 
